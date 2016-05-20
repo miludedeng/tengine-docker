@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Steven "hw@zving.org"
+MAINTAINER Steven "hw@zving.com"
 
 ENV TENGINE_VERSION 2.1.2
 
